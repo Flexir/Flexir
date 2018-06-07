@@ -1,0 +1,2 @@
+# Flexir
+Simple WYSIWYG editor
